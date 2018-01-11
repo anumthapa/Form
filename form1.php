@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><!-- Actualy this was done in php so to make things clear i wrote it in html..--></title>
+	<title></title>
 </head>
 <?php  include 'form1_css.html';?>
-<link rel="stylesheet" type="text/css" href="form1css.css">
 <body>
 	<div class ="form">
 		<ul class="tab-group">
